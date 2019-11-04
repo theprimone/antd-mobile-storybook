@@ -1,7 +1,7 @@
 {
-  "name": "antd-form-mate",
-  "description": "基于 ant design 的表单组件",
-  "version": "0.1.14",
+  "name": "antd-mobile-storybook",
+  "description": "storybook for ant design mobile",
+  "version": "1.0.0",
   "main": "./dist/index.js",
   "dependencies": {
     "antd-mobile": "^2.2.14",
